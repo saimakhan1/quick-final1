@@ -1,0 +1,7 @@
+
+Assignment-2
+
+Project- Quick
+
+Live website link: http://quickby-saima.com/
+GitHub code link: https://github.com/saimakhan1/Quick-MERN
